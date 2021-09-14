@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="4.5.1" type="mambot" group="content">
+  <name>!JoomlaComment</name>
+  <author>Alain GEORGETTE - Frantisek Hliva </author>
+  <creationDate>october 2007</creationDate>
+  <copyright>Copyright(C) Frantisek Hliva./Alain Georgette All rights reserved!</copyright>
+  <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+  <authorEmail>joomla@acgeorgette.net</authorEmail>
+  <authorUrl>www.acgeorgette.net</authorUrl>
+  <version>3.20</version>
+  <description />
+  <files>
+    <filename mambot="joscomment">joscomment.php</filename>
+  </files>
+	<params>
+		<param name="manual" type="radio" default="0" label="Use {joscommentenable} tag" description="If yes, board will be displaid only if the {joscommentenable} tag is found in the text.">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+	</params>
+</mosinstall>

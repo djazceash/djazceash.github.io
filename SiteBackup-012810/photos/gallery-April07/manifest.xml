@@ -1,0 +1,75 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="GalleryMaker.xml" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="index.html" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="reflection.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\reflection.jpg" />
+  <file dest="reflection.swf" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\reflection.swf" />
+  <file dest="resources\groups\group.xml" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\reflection\medium\Easter2007-01.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-01.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-08.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-08.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-11.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-11.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-13.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-13.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-17.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-17.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-22.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-22.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-25.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-25.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-26.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-26.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-27.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-27.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-28.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-28.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-29.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-29.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-30.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-30.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-31.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-31.jpg" />
+  <file dest="resources\media\reflection\medium\Easter2007-32.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Easter2007-32.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-01.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-01.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-02.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-02.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-03.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-03.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-09.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-09.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-12.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-12.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-28.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-28.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-29.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-29.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-50.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-50.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-53.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-53.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-57.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-57.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-58.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-58.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-59.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-59.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-60.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-60.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-61.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-61.jpg" />
+  <file dest="resources\media\reflection\medium\Massanutten=20Mar07-64.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Massanutten=20Mar07-64.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-01.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-01.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-02.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-02.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-03.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-03.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-04.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-04.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-05.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-05.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-06.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-06.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-07.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-07.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-08.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-08.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-09.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-09.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-10.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-10.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-11.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-11.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-12.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-12.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-13.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-13.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-14.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-14.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-15.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-15.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-16.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-16.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-17.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-17.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-18.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-18.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-19.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-19.jpg" />
+  <file dest="resources\media\reflection\medium\NCRF-April07-20.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\NCRF-April07-20.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-05.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-05.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-09.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-09.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-10.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-10.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-12.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-12.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-15.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-15.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-16.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-16.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-18.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-18.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-21.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-21.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-22.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-22.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-24.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-24.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-26.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-26.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-28.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-28.jpg" />
+  <file dest="resources\media\reflection\medium\Visit=20Mar07-31.jpg" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\media\reflection\medium\Visit=20Mar07-31.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Users\David\AppData\Local\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

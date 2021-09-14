@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<galleryMaker>
+	<galleryInfo>
+		<galleryName>Reflection</galleryName>
+		<galleryDescription>"$$$/flashGalleries/reflection/description=Your photos are arranged in a 3D circle, and can be rotated and zoomed for closer viewing."</galleryDescription>
+		<creator company="Adobe" designer="German Bauer and Wayne Jiang" />
+		<category>Interactive</category>
+	</galleryInfo>
+	<sizes>
+		<size name="medium" width="640" height="480" />
+	</sizes>
+	<mx:application xmlns:mx="http://www.macromedia.com/2005/mxml" xmlns="*" backgroundcolor="#FFFFFF">
+	<!-- Models -->
+		<mx:model id="appearance">
+			<background>
+				<backgroundColor>000000</backgroundColor>
+			</background>
+	 		<pageOptions>
+					<showCaptions>true</showCaptions> 
+			</pageOptions>
+		</mx:model>
+		<mx:model id="metadata">
+			<pageTitle>"$$$/flashGalleries/pageTitle/defaultTitle=My Photos"</pageTitle>
+			<pageSubtitle> </pageSubtitle>
+			<emailAddress>someone@somewhere.net</emailAddress>	
+		</mx:model>		
+	<!-- Views -->
+		<mx:vbox>
+			<mx:vbox verticalalign="middle">
+				<mx:label text="$$$/flashGalleries/pageTitle/label=Title:" />
+				<mx:textinput id="titleView" width="143" editable="true" maxchars="40" />			
+			</mx:vbox>
+			<mx:vbox verticalalign="middle">
+				<mx:label text="$$$/flashGalleries/pageSubTitle/label=Subtitle:" />
+				<mx:textinput id="subtitleView" width="143" editable="true" maxchars="36" />
+			</mx:vbox>
+			<mx:vbox verticalalign="middle">
+				<mx:label text="$$$/flashGalleries/authorEmail/label=Email Address:" />
+				<mx:textinput id="emailAddressView" width="143" editable="true" maxchars="50" />
+			</mx:vbox>
+			<mx:hbox verticalalign="middle">
+				<mx:label text="$$$/flashGalleries/backgroundColor/label=Background Color:" />
+				<mx:colorpicker id="backgroundColorView" />
+			</mx:hbox>
+			<mx:vbox verticalalign="middle">
+				<mx:checkbox id="showCaptionsView" label="$$$/flashGalleries/showCaptions/label=Show Photo Captions" />
+			</mx:vbox>
+		</mx:vbox>
+		<!-- Bindings -->
+		<mx:binding source="titleView.text" destination="metadata.pageTitle" />
+		<mx:binding source="metadata.pageTitle" destination="titleView.text" />
+		<mx:binding source="subtitleView.text" destination="metadata.pageSubtitle" />
+		<mx:binding source="metadata.pageSubtitle" destination="subtitleView.text" />
+		<mx:binding source="emailAddressView.text" destination="metadata.emailAddress" />
+		<mx:binding source="metadata.emailAddress" destination="emailAddressView.text" />
+		<mx:binding source="backgroundColorView.selectedColor" destination="appearance.background.backgroundColor" />
+		<mx:binding source="appearance.background.backgroundColor" destination="backgroundColorView.selectedColor" />
+		<mx:binding source="showCaptionsView.selected" destination="appearance.pageOptions.showCaptions" />
+		<mx:binding source="appearance.pageOptions.showCaptions" destination="showCaptionsView.selected" />
+	</mx:application>
+</galleryMaker>

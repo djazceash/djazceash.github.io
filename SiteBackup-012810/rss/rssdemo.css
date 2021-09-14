@@ -1,0 +1,54 @@
+/*
+ * REM out old info
+ */
+
+H1 {
+     font-family:Verdana, Arial, Helvetica, sans-serif;
+	 font-size:large;
+}
+
+H2 {
+     font-family:Verdana, Arial, Helvetica, sans-serif;
+	 font-size:small;
+}
+
+a {
+    font-weight: inherit;
+}
+
+a:link {
+    color: #0033cc;
+}
+
+a:visited {
+    color: #81b;
+}
+
+a:active {
+    color: #4682b4;
+}
+
+a:hover {
+    color: #9999ff;
+    font-weight: bold;
+}
+
+a.nav:link {
+    color: black;
+    text-decoration: none;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+a.nav:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a.nav:active {
+    color: black;
+}
+
+a.nav:hover {
+    color: white;
+}
