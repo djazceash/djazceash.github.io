@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<photoGalleryStyle>
- <appearance>
-  <background backgroundColor="111111" />
-  <pageOptions showCaptions="true" />
- </appearance>
-</photoGalleryStyle>
